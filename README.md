@@ -1,13 +1,14 @@
-# ChatGPT-Message-to-HTML-converter
-This is a simple web static files that will convert a ChatGPT messages into HTML that you can use archiving. The sole purpose I made this because I want to see ChatGPT's instruction and lessons it provide me to be in better view. I want the page in readable format, bash or code formatted perfectly, and being able to share the file to other people and they'l lbe able to understand as well.
+# ChatGPT Message to HTML Converter
+This project consists of simple static web files that convert ChatGPT messages into HTML, allowing for better archiving and viewing. The primary motivation for creating this tool was to present ChatGPT's instructions and lessons in a more readable format, with perfectly formatted code and bash commands. Additionally, the HTML output is easy to share with others, ensuring they can understand the content as well.
 
-# The files
+### Files
+index.html - The main HTML file.
+script.js - JavaScript for functionality.
+styles.css - CSS for styling.
 
-1. index.html
-2. script.js
-3. styles.css
+### License and Usage
+There are no copyrights, trademarks, or royalties associated with this project. You are free to use it for both commercial and private purposes. This ChatGPT message-to-HTML generator was created entirely by the ChatGPT 4.0 AI. I do not claim full credit and grant full permission for anyone to use this tool without any legal obligations or the need for credit.
 
-# There are no copyrights, trademarks, or royalty you are free to see this for commercial or private use.
-This ChatGPT message to HTML generator was 100% made by the ChatGPT 4o AI I take no full credit I give full permission to anyone to use this with no legal or credit.
+### Preview
 
-https://github.com/JeDeergab/ChatGPT-Message-to-HTML-converter/blob/main/images/Capture.PNG
+![Preview](images/Capture.PNG)
