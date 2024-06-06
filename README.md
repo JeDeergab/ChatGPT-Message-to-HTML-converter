@@ -1,4 +1,4 @@
-# ChatGPT Message to HTML Converter
+# Convert ChatGPT transcript into HTML
 This project consists of simple static web files that convert ChatGPT messages into HTML, allowing for better archiving and viewing. The primary motivation for creating this tool was to present ChatGPT's instructions and lessons in a more readable format, with perfectly formatted code and bash commands. Additionally, the HTML output is easy to share with others, ensuring they can understand the content as well.
 
 ### Main Files
